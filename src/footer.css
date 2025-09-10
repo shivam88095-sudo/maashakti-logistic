@@ -1,0 +1,21 @@
+/* Minimal footer styles used by Footer.jsx */
+.footer {
+  background: transparent;
+}
+.footer-container {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
+}
+.social-icons {
+  display: flex;
+  gap: 8px;
+}
+.social-link {
+  color: #fff;
+  font-size: 20px;
+}
+.social-link.whatsapp {
+  color: #25D366;
+}
