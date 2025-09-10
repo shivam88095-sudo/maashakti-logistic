@@ -16,7 +16,7 @@ const Profile = () => {
             Maa shakti logistic is providind significant help in choosing the right company of reliable packers and movers that cares about your relocation requirements, with personal attention.
           </p>
         </div>
-         <img src="/src/assets/tutu.jpg"  />
+        <img src=" tutu.jpg" />
         <div className="card">
           <h2>Details</h2>
           <p><a href="tel:+918002722528" className='phone-link'>+918002722528</a></p>
